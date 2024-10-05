@@ -1,0 +1,126 @@
+#object{
+    background-image:linear-gradient(black,grey);
+    color: white;
+    width: 650px;
+    border-radius: 10%;
+}
+#object:hover{
+ 
+    background-image:linear-gradient(white,black);
+    border-radius: 10%;
+}
+#name{
+    font-size: larger;
+    
+    text-align: center;
+    counter-set: larger;
+}
+a{
+    margin-left: 50%;
+    font-size: larger;
+    color: white;
+
+}
+.container {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+#pdf{
+    text-align: left;
+    color: black;
+    background-color: black;
+    width: 650px;
+}
+#question{
+    text-align: left;
+    content: center;
+    width: 650px;
+    background-color:purple;
+}
+
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+label {
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+button {
+    padding: 10px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+body{
+    padding: 0%;
+    background-color: aliceblue;
+
+}
+h1{
+    color: red;
+
+}
+h2{
+    color: rgb(205, 30, 205);
+}
+#para{
+    width: 650px;
+    text-align: center;
+}
+#navbar{
+    background-color:black;
+    color: white;
+    width: 650px;
+    align-items: left;
+    text-align: left;
+    
+    align-content: left;
+
+}
+h3{
+    color:black;
+}
+
+#mani{
+    border-radius: 100%;
+    text-align: center;
+    content: center;
+    
+}
+#image{
+    text-align: center;
+    width: 650px;
+}
+#keeru{
+    background-color: black;
+    color: white;
+    width: 650px;
+    text-align: center;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
